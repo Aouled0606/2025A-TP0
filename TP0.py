@@ -3,5 +3,5 @@
 import math
 print("entrez le rayon (en mm) :")
 x = input()
-air = float(x)**2 * float(math.pi)
+air = float(x)**2 * math.pi
 print(air)
